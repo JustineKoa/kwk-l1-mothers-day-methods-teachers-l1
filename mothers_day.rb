@@ -1,6 +1,6 @@
 ## Define your method, mothers_day, below. Go through the README and update your method as needed!
 def mothers_day(person="Mom")
-  puts "Happy Mother's Day, #{person}!"
+  puts "Happy Mother's Day, #{person}! I hope you have a great day!"
 end
 
 
